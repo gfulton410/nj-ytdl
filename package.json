@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gfulton410/nj-ytdl/issues"
   },
-  "homepage": "https://github.com/gfulton410/nj-ytdl#readme"
+  "homepage": "https://github.com/gfulton410/nj-ytdl#readme",
+  "dependencies": {
+    "shelljs": "^0.8.1",
+    "yargs": "^11.0.0"
+  }
 }
